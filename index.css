@@ -175,8 +175,6 @@ input::-webkit-inner-spin-button {
 
 .right_inf_block p,
 a {
-
-	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 13px;
@@ -237,7 +235,6 @@ a {
 
 
 .banner_list_item {
-	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 24px;
