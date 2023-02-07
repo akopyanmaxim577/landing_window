@@ -63,5 +63,5 @@ close.addEventListener('click', function () {
 })
 
 
-
+AOS.init();
 
