@@ -63,6 +63,10 @@ button::-moz-focus-inner {
 	border: 0;
 }
 
+a {
+	font-family: 'Montserrat', sans-serif;
+}
+
 a,
 a:visited {
 	text-decoration: none;
@@ -1576,15 +1580,16 @@ textarea {
 	.slider_sub {
 		font-size: 29px;
 	}
-	
 
-	
+
+
 }
 
-@media(max-width:535px){
-	.controls{
+@media(max-width:535px) {
+	.controls {
 		display: none;
 	}
+
 	.swiper-pagination-bullet {
 		width: 35px;
 		height: 25px;
@@ -1593,7 +1598,7 @@ textarea {
 	}
 }
 
-.fram_video{
+.fram_video {
 	display: none;
 	margin: 0 auto;
 }
@@ -1601,24 +1606,26 @@ textarea {
 .db {
 	display: block;
 }
-.dn{
+
+.dn {
 	display: none;
 }
-.fram_video{
+
+.fram_video {
 	width: 560px;
-	height: 315px;	
+	height: 315px;
 }
 
-@media(max-width:612px){
-	.fram_video{
+@media(max-width:612px) {
+	.fram_video {
 		width: 350px;
 		height: 200px;
 	}
 }
 
 
-@media(max-width:378px){
-	.fram_video{
+@media(max-width:378px) {
+	.fram_video {
 		width: 250px;
 		height: 150px;
 	}
